@@ -11,12 +11,21 @@ This repository will actually serve as a aid to help you get started with your o
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+Hello all! this is my long awaited descriptions on stuff I did nearly 5-6 months ago
+I'll admit I am embarassingly late to the party, but at least it ain't june yet!
+
+This is where I Learned how to write Engineering notebooks and the "Hello World!" stuff
+
 
 Here's how you make code look like code:
 
 ```python
-Code goes here
+from time import sleep
+
+while True:
+    print("Hello world!")
+    print("Hello world! Atticus rocks!")
+    sleep(1)
 
 ```
 
@@ -38,7 +47,7 @@ Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
+I wish I would've gotten this WAY sooner, but learning is learning.
 
 
 
