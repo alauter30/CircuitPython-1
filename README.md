@@ -55,6 +55,7 @@ I wish I would've gotten this WAY sooner, but learning is learning.
 ## CircuitPython_Servo
 
 ### Description & Code
+Eons ago, back in september, I was working on a servo and what came out was a servo that kinda moved.
 
 ```python
 Code goes here
@@ -72,7 +73,7 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 
 
 
-## CircuitPython_LCD
+## Me and Franklin's Paper Airplane arm
 
 ### Description & Code
 
@@ -82,24 +83,38 @@ Code goes here
 ```
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/71350043/236498198-c26c49a2-c98c-4c99-8404-7e8c44f5881a.png)
 
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
 ### Wiring
 
 ### Reflection
+Paper Airplane thrower is the best idea ever, oh and this is one accomplishment I'm proud of in engineering
 
 
 
 
-
-## NextAssignment
+## Sensor Car PID
 
 ### Description & Code
+This is the current WIP that we're cooking up, while as I write this we are still waiting for Franklin's share of the Motor and Sensor code (Between you and me, if he does not come on monday, imma just do it for him.)
 
 ```python
-Code goes here
+This code is for when the Motor and sensor is introduced
+from simple_pid import PID
+pid = PID(1, 0.1, 0.05, setpoint=1)
 
+# Assume we have a system we want to control in controlled_system
+v = controlled_system.update(0)
+
+while True:
+    # Compute new output from the PID according to the systems current value
+    control = pid(v)
+    
+    # Feed the PID output to the system and get its current value
+    v = controlled_system.update(control)
+Final Product
+WIP
 ```
 
 ### Evidence
@@ -107,3 +122,4 @@ Code goes here
 ### Wiring
 
 ### Reflection
+This was kind of the biggest learning experiences in Engineering I've learned thus far.
