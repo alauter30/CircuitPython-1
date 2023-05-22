@@ -47,56 +47,50 @@ Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-I wish I would've gotten this WAY sooner, but learning is learning.
+I wish I would've gotten this WAY sooner, but here we are.
 
 
 
 
 ## CircuitPython_Servo
 
-### Description & Code
-Eons ago, back in september, I was working on a servo and what came out was a servo that kinda moved.
+### Description 
+Eons ago, back in september, I was working on a servo and what came out was a servo that moved.
 
-```python
-Code goes here
 
-```
+# Evidence
 
-### Evidence
+![Image](images/Servo%20pic.jpg)
 
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+## Wiring
 
-### Wiring
-
-### Reflection
+## Reflection
+This is pretty much a blur from a distant past, sadly I did not record this project in particular so I'm scrapping it back together.
 
 
 
 
-## Me and Franklin's Paper Airplane arm
+# Me and Franklin's Paper Airplane arm
 
 ### Description & Code
 
 ```python
-Code goes here
+Code Is currently In the hands of my partner (WIP)
 
 ```
 
-### Evidence
+# Evidence
 ![image](https://user-images.githubusercontent.com/71350043/236498198-c26c49a2-c98c-4c99-8404-7e8c44f5881a.png)
 
 
-### Wiring
+## Wiring 
+Wiring is seen above  
 
-### Reflection
-Paper Airplane thrower is the best idea ever, oh and this is one accomplishment I'm proud of in engineering
+## Reflection
+The Paper airplane arm took a while to model and I'm very proud of modling and building this, sadly it remains unfinished due to my partner not being here to share the code, I am looking foreward to finishing this in the near future.
 
 
-
-
-## Sensor Car PID
-
-### Description & Code
+## Description & Code
 This is the current WIP that we're cooking up, while as I write this we are still waiting for Franklin's share of the Motor and Sensor code (Between you and me, if he does not come on monday, imma just do it for him.)
 
 ```python
@@ -118,8 +112,8 @@ WIP
 ```
 
 ### Evidence
-
+![Images](images/SideimageCarPID.jpg)
 ### Wiring
-
+![Images](images/TopViewbetter.jpg)
 ### Reflection
-This was kind of the biggest learning experiences in Engineering I've learned thus far.
+This was an interesting project, we did run into a couple of rough edges in the production of this project, such as one of our teammates was gone, and I kinda wished I had a bigger, or at least a better role I was more experienced in. (I do not code well.)
