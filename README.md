@@ -46,11 +46,12 @@ Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlyb
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
+
 ### Reflection
 I wish I would've gotten this WAY sooner, but here we are.
 
-
-
+---
+## This is the part when things get more original.
 
 ## CircuitPython_Servo
 
@@ -124,23 +125,23 @@ This was an interesting project, we did run into a couple of rough edges in the 
 # CAD
 This involves some most of the CAD projects I've worked with this year
 ## Table of Contents
-* [Onshape Collaboration]() 
-* [Swing Arm]()
-* [Multi_Design_practice]()
-* [Other Onshape Assemblies]()
-* [Onshape Certificaton]()
+* [Onshape Collaboration](#onshape-collaboration) 
+* [Swing Arm](#swing-arm)
+* [Multi_Design_practice](#multidesignpractice)
+* [Other Onshape Assemblies](#other-onshape-assemblies)
+* [Onshape Certificaton](#onshape-certification)
 * []
 
 ## Onshape Collaboration
 ---
 ### Description
-
+In this project, we were supposed to create a sort of hand soap dispenser with Lucy and Ben, This project was split into 3 parts, The top (Ben), The pump (Lucy), and The base, (Me - Atticus).
 ### Link to cad
-
+https://cvilleschools.onshape.com/documents/c6df38fcb6e024ff6b2fdb81/w/66e1f649a19cf6cca2247617/e/89b3856ab4908e77e9722429?renderMode=0&uiState=646f7a037dea8338f7dc976b
 ### Image
-
+![Images](Images/OnshapeCollab1.PNG)
 ### Reflection
-
+Onshape collab was a fun project, while trying to make a hand soap dispenser thingamajig, yet I'm not sure if there were more collab projects I didn't know about (Besides the Pull copter/"Teamwork makes the dream work" project.)
 ## Swing Arm
 ---
 ### Description
@@ -154,13 +155,13 @@ This involves some most of the CAD projects I've worked with this year
 ## Multi_Design_practice
 ---
 ### Description
-
+This was one of the lessons to learn how to 3D model parts using the directions a blueprint.
 ### Link to cad
-
+https://cvilleschools.onshape.com/documents/e7f6c5de8f18198dc8caa9fc/w/9f98bff0714563ce348f3dfb/e/4667124a416b1229cd35ddac?renderMode=0&uiState=646f78103bc4814150f6a50e
 ### Image
-
+![Images](Images/MultiStudioPart.PNG)
 ### Reflection
-
+Went well, no complaints here.
 ## Other Onshape Assemblies
 ---
 
