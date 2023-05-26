@@ -145,11 +145,11 @@ Onshape collab was a fun project, while trying to make a hand soap dispenser thi
 ## Swing Arm
 ---
 ### Description
-
+This was made for practice on the onshape collaboration test, this is not the original because It was deleted and made again for practice (So this one may not be entirely accurate to the original.)
 ### Link to cad
 
 ### Image
-
+![Images](Images/SwingArm.PNG)
 ### Reflection
 
 ## Multi_Design_practice
