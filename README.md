@@ -1,3 +1,15 @@
+# Atticus' Virtual Nobebook
+Welcome! this Repo has all of the brief and not so brief summaries of almost all of my projects I worked on in the last year (2022-2023.)
+
+(If anything in the Repo does not work, here is a link to the VScode that was used to make it, it probably might come in handy later.)
+
+
+
+
+
+
+
+
 # CircuitPython
 This repository will actually serve as a aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
