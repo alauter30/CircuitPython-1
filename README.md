@@ -109,7 +109,7 @@ while True:
     # Feed the PID output to the system and get its current value
     v = controlled_system.update(control)
 Final Product
-WIP
+WIP - Not likely to finish.
 ```
 
 ### Evidence
@@ -147,11 +147,11 @@ Onshape collab was a fun project, while trying to make a hand soap dispenser thi
 ### Description
 This was made for practice on the onshape collaboration test, this is not the original because It was deleted and made again for practice (So this one may not be entirely accurate to the original.)
 ### Link to cad
-
+https://cvilleschools.onshape.com/documents/83844949e07ea31127ec3375/w/a2cb5f0c9848ad19b994d895/e/46b53c18c2c3f425d37c5040?renderMode=0&uiState=64760cefdc53a4085282cdb5
 ### Image
 ![Images](Images/SwingArm.PNG)
 ### Reflection
-
+A quick and simple project, yet it had to be redone in the last week so again, it may not be entirely accurate to it's predecessor.
 ## Multi_Design_practice
 ---
 ### Description
@@ -166,4 +166,6 @@ Went well, no complaints here.
 ---
 
 
-## Onshape Certification
+## Onshape Certification 
+## Results; Fail
+Unfortunately in the end, while a lot of the onshape models were well done (in my opinion), I was running out of time and had to guess a lot of the multiple choice questions - I hope to try to take the test again sometime.
