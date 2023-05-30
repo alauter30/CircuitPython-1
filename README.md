@@ -83,9 +83,7 @@ Code Is currently In the hands of my partner (WIP)
 # Evidence
 ![image](https://user-images.githubusercontent.com/71350043/236498198-c26c49a2-c98c-4c99-8404-7e8c44f5881a.png)
 
-
-## Wiring 
-Wiring is seen above  
+  
 
 ## Reflection
 The Paper airplane arm took a while to model and I'm very proud of modling and building this, sadly it remains unfinished due to my partner not being here to share the code, I am looking foreward to finishing this in the near future.
