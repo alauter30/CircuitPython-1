@@ -4,7 +4,7 @@ Welcome! this Repo has all of the brief and not so brief summaries of almost all
 (If anything in the Repo does not work, here is a link to the VScode that was used to make it, it probably might come in handy later.)
 
 
-
+https://vscode.dev/github/alauter30/CircuitPython-1/blob/225f634e369d3e240181a707ca6dc2b344732a83
 
 
 
